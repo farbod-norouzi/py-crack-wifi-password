@@ -38,6 +38,9 @@ Now open terminal and command
 Type python pywifick.py and press Enter.
 After the commands are fully executed, the list of WiFi registered on the computer will be displayed for you and you can access the password by typing the WiFi name.
 
+# OS 
+Windows
+
 # Communication with the programmer
 - Email : norouzif556@gmail.com
 - Telegram : https://t.me/farbod_mi & https://t.me/farbod_mi1
