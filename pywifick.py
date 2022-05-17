@@ -1,9 +1,9 @@
 from os import system
+import subprocess
 
 try:
     import requests
     import platform
-    import subprocess
     from colorama import Fore
 except ImportError:
    system("pip install os ")
