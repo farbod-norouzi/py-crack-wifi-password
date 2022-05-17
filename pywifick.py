@@ -1,6 +1,6 @@
+from os import system
+
 try:
-    import os
-    from os import system
     import requests
     import platform
     import subprocess
